@@ -1,0 +1,63 @@
+body {
+  background: rgb(12, 112, 130);
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-style: normal;
+  text-align: center;
+  font-size: 3rem;
+}
+
+img {
+  height: 120px;
+  width: 180px;
+  border-radius: 50%;
+  border: 1px solid white;
+  display: block;
+  margin: 0 auto;
+}
+
+main {
+  margin-left: 20px;
+}
+
+.naglowek-dwa {
+  margin-left: 20px;
+  font-size: 1.3rem;
+  color: rgb(145, 176, 221);
+}
+
+article {
+  padding-left: 10px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+article a {
+  text-decoration: none;
+  color: aqua;
+}
+
+.page-footer {
+  text-transform: uppercase;
+  text-align: center;
+  margin: auto;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.page-footer a {
+  color: bisque;
+  text-decoration: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: bisque;
+  text-transform: uppercase;
+  margin-right: 20px;
+  font-size: 10px;
+}
